@@ -19,10 +19,11 @@
 
 **Network Protocol**
 
+- TCP
+- UDP
+- TLS
 - HTTP
-- HTTPS
 - MQTT
-- MQTTS
 - CoAP
 
 
